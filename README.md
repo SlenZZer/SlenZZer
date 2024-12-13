@@ -14,22 +14,27 @@
 ### 🛠 Skills
 
 - **Programming Languages:** C, C++14, Python
-- **Frameworks:** Qt (C++), .Net Visual Studio (C++), Ruby on Rails (Ruby)
+- **Frameworks:** Qt (C++), .Net Visual Studio (C++)
 - **Tools:** Blender 2.91 (3D animation software)
 
 ---
 
 ### 💼 Experience
 
+#### **Delta electronics Pvt. Ltd, India / C++ Developer**
+*Nov 2024 - Present, Gurgoan,India*
+
+- **Arm Based Application For EV Chargers:** Working on Application Developed using Qt C++ .
+
 #### **WESEE CSI, NAVY HQ / C++ Developer**
-*Jan 2023 - Present, Okhla Delhi*
+*Jan 2023 - Nov 2024, RKpuram Delhi,India*
 
 - **Simulator Application for Sonar Devices:** Developed a simulator that emulates sonar devices behavior according to protocol.
 - **Oceanography Data Analysis Tool:** Created a tool for plotting temperature profiles and implemented cubic spline interpolation.
 - **Pilot Training Simulator Upgrade:** Upgraded helicopter pilot training simulators, consolidating workstations and ensuring seamless operation.
 
 #### **Ant ESports Pvt. Ltd / C++ Developer**
-*Aug 2022 - Jan 2023, Okhla Delhi*
+*Aug 2022 - Jan 2023, Okhla Delhi,India*
 
 - Developed C++ libraries for GPU accelerated video encoding of live streams for a Cloud IaaS platform.
 
