@@ -16,6 +16,7 @@
 - **Programming Languages:** C, C++14, Python
 - **Frameworks:** Qt (C++), .Net Visual Studio (C++)
 - **Tools:** Blender 2.91 (3D animation software)
+- **Tools:** Wireshark (Network debug tool)
 
 ---
 
